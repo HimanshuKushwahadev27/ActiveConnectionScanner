@@ -29,22 +29,6 @@ Run the main script:
 python -m ip_threat_scanner.main
 The tool will display active connections and threat information for each IP.
 
-## Project Structure
-
-IPNetstatScanner/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── setup.py
-└── src/
-    └── ip_threat_scanner/
-        ├── __init__.py
-        ├── main.py
-        ├── scanner/
-        │   ├── __init__.py
-        │   ├── connection_scanner.py
-        │   └── ip_lookup.py
 
 
 ## Security Disclaimer
