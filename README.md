@@ -1,0 +1,54 @@
+## IPNetstatScanner 
+
+This is a python tool to scan active connections in locally and provide some information about the IPs you are connected to and let you know if there is any malicious connections.
+
+## Features
+
+- List active network connections on your machine.
+- Query IP addresses in a threat intelligence database.
+- Display malicious score and threat rating for each IP.
+- Show geolocation information (country/region) of IPs.
+- Easy-to-read output suitable for analysts or hobbyists.
+
+## Installation
+
+1. Clone the repository:
+
+
+git clone 
+cd IPNetstatScanner
+Install dependencies:
+
+
+
+pip install -r requirements.txt
+Usage
+Run the main script:
+
+
+python -m ip_threat_scanner.main
+The tool will display active connections and threat information for each IP.
+
+## Project Structure
+
+IPNetstatScanner/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── setup.py
+└── src/
+    └── ip_threat_scanner/
+        ├── __init__.py
+        ├── main.py
+        ├── scanner/
+        │   ├── __init__.py
+        │   ├── connection_scanner.py
+        │   └── ip_lookup.py
+
+
+## Security Disclaimer
+This tool is intended for educational purposes only. Do not use it to scan networks or IPs without proper authorization. Always follow ethical hacking guidelines and your local laws.
+
+License
+This project is licensed under the MIT License.
