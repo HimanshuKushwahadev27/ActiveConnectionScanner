@@ -23,10 +23,13 @@ Install dependencies:
 
 pip install -r requirements.txt
 Usage
-Run the main script:
+install the script:
 
+pip install -e .
 
-python -m ip_threat_scanner.main
+then run it:
+ipnetstatscanner
+
 The tool will display active connections and threat information for each IP.
 
 
