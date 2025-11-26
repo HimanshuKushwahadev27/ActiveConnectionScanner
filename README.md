@@ -22,9 +22,9 @@ Install dependencies:
 
 
 pip install -r requirements.txt
-Usage
-install the script:
+Usage:
 
+install the script: (youll need to modify it first to add your API key to the code, or directly comment out the API function and use the other one I provided)
 pip install -e .
 
 then run it:
