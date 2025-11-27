@@ -23,8 +23,10 @@ Install dependencies:
 
 pip install -r requirements.txt
 Usage:
+Youll need to modify ip_lookup.py to add your API key of abuseIPDB to the code, or directly comment out the API function and use the other one I provided
 
-install the script: (youll need to modify it first to add your API key in ip_lookup.py to the code, or directly comment out the API function and use the other one I provided)
+
+install the script: 
 pip install -e .
 
 then run it:
